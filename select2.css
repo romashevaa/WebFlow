@@ -179,6 +179,7 @@
   height: 26px;
   margin-right: 20px;
   padding-right: 0px;
+  display: none;
 }
 .select2-container--default
   .select2-selection--single
